@@ -1,3 +1,4 @@
+//Target Sum 
 public class array06 {
 
     public static void Sol(int arr[] , int n, int target){
